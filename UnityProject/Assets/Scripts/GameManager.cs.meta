@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 1180128bb0bd7d24ab28dbd07f5b5671
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - login: {instanceID: 0}
+  - lobby: {instanceID: 0}
+  - Nickname: {instanceID: 0}
+  - Error: {instanceID: 0}
+  - networkManager: {instanceID: 0}
+  - playerScript: {instanceID: 0}
+  - game: {instanceID: 0}
+  - Dark_Skill: {instanceID: 0}
+  - Poison_Skill: {instanceID: 0}
+  - Hydra_Skill: {instanceID: 0}
+  - StartCount: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
